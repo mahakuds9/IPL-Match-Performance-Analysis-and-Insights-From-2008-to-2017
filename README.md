@@ -1,0 +1,2 @@
+# IPL-Match-Performance-Analysis-and-Insights-From-2008-to-2017
+This repository contains a Power BI project focused on analyzing the performance of players, teams, and matches in the Indian Premier League (IPL). The project aims to provide insightful visualizations and data analysis, enabling a deeper understanding of trends, player statistics, team performance, and match outcomes over multiple IPL seasons.
